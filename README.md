@@ -79,7 +79,7 @@
 
 </details>
 
-[email]: mailto:ishaanbhatnagar881@gmail.com?subject=[Github]ContactMe
+[email]: mailto:ishaanbhatnagar881@gmail.com
 [website]: https://ishaanbhatnagar25.github.io/
 [twitter]: https://twitter.com/IshaanB25
 [youtube]: https://youtube.com/user/ishaanbhatnagar881

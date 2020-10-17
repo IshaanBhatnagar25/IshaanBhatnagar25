@@ -1,4 +1,4 @@
-### Hi there, I'm [Ishaan](https://ishaanbhatnagar25.github.io/)
+# Hi there, I'm [Ishaan Bhatnagar](https://ishaanbhatnagar25.github.io/)
 
 ## I'm a Developer, Blogger and Tech-Enthusiast!
 
@@ -8,6 +8,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="ishaanbhatnagar25.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -15,8 +17,9 @@
 [<img align="left" alt="Ishaan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ishaan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ishaan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -38,21 +41,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [6 Amazing Tips to Successfully Freelance in Web Development (2020)](https://www.youtube.com/watch?v=e9UvzZJflqU)
-- [Top VS Code Updates | v1.50 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=WYIelDSS738)
-- [NEW GitHub CLI 1.0 Tutorial | FREE Swag! | Hacktoberfest UPDATE | Step-by-Step Guide | Web Developer](https://www.youtube.com/watch?v=Uzcr9YrdODU)
-- [React 17: New Features!! - JSX Transform is Amazing!!](https://www.youtube.com/watch?v=8D-rWP3c088)
-- [How To Make Responsive Website | Animated Hamburger Menu | HTML & CSS | Step By Step Tutorial 2020](https://www.youtube.com/watch?v=nME3fE3c9Qw)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 

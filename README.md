@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ishaanbhatnagar25.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/gmail.svg" />][Email]
+[<img align="left" alt="Ishaan | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
 [<img align="left" alt="ishaanbhatnagar25.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ishaan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Ishaan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

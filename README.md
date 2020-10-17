@@ -58,7 +58,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="IshaanBhatnagar25's GitHub Stats" src="github-readme-stats-git-master.ishaanbhatnagar25.vercel.app/api?username=IshaanBhatnagar25&show_icons=true&hide_border=true" />
+  [![Ishaan's github stats](github-readme-stats-git-master.ishaanbhatnagar25.vercel.app/api?username=IshaanBhatnagar25)](https://github.com/IshaanBhatnagar25/github-readme-stats)
 
 </details>
 

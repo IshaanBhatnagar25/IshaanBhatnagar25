@@ -42,26 +42,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  [![Ishaan's github stats](github-readme-stats-git-master.ishaanbhatnagar25.vercel.app/api?username=IshaanBhatnagar25)](https://github.com/IshaanBhatnagar25/github-readme-stats)
-
-</details>
-
 [email]: mailto:ishaanbhatnagar881@gmail.com
 [website]: https://ishaanbhatnagar25.github.io/
 [twitter]: https://twitter.com/IshaanB25
@@ -71,4 +51,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ishaan Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)

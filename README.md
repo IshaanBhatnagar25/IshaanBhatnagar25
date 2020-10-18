@@ -4,15 +4,15 @@
 
 - 🔭 I just launched my blog based [portfolio](https://ishaanbhatnagar25.github.io/)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to explore new stuff and play Piano in my free time.
 
 ---
 
 ### About:
 
->I solve problems. Generally with computers, math and algorithms. Often with teams of collaborators. I also like data in all its forms. I have a command over the language and can speak fluently and without any hesitation. I love to grasp new concepts quickly and implement them efficiently. I am a team player. An open work environment is an ideal workplace where I can exhibit the best out of me. I have a never-give-up attitude towards the problem that I face. I have an understanding of implementing the concepts.
+>I solve problems. Generally with computers, math and algorithms. Often with teams of collaborators. I also like data in all its forms. I love to grasp new concepts quickly and implement them efficiently. I am a team player. An open work environment is an ideal workplace where I can exhibit the best out of me. I have a never-give-up attitude towards the problem that I face. 
 
 ---
 

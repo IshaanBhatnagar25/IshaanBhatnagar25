@@ -53,7 +53,6 @@
 
 ### Github Stats:
 
-ishaanbhatnagar-gh-readme-stats.vercel.app
 ![Ishaan's github stats](https://ishaanbhatnagar-gh-readme-stats.vercel.app/api?username=IshaanBhatnagar25&show_icons=true)
 
 ---
